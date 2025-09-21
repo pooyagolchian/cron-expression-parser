@@ -16,7 +16,7 @@ A minimal, clean TypeScript package for parsing standard cron schedule expressio
 - **Zero dependencies** - Pure TypeScript implementation
 - **Well-tested** - Comprehensive test suite with 100% coverage
 
-## Installation
+## Installation (SOON on npm)
 
 ```bash
 npm install cron-expression-parser
