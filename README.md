@@ -2,7 +2,7 @@
 
 A minimal, clean TypeScript package for parsing standard cron schedule expressions. This parser focuses on simplicity and maintainability while supporting the five standard cron fields plus a command.
 
-## ( Features
+## Features
 
 - **Standard cron syntax support** - All five time fields (minute, hour, day of month, month, day of week)
 - **Flexible field expressions**:
@@ -120,7 +120,7 @@ npm test:watch
 npm test:coverage
 ```
 
-##  Development
+## Development
 
 ```bash
 # Build the project
